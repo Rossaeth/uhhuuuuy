@@ -10,23 +10,28 @@
   "miniapp": {
     "version": "1",
     "name": "Cubey",
-    "homeUrl": "https://cubey.vercel.app",
-    "iconUrl": "https://cubey.vercel.app/blue-icon.png",
-    "splashImageUrl": "https://cubey.vercel.app/blue-hero.png",
-    "splashBackgroundColor": "#000000",
-    "webhookUrl": "https://cubey.vercel.app/api/webhook",
     "subtitle": "Your AI Ad Companion",
-    "description": "Manage your ads and marketing campaigns smarter.",
+    "description": "Ads & Marketing Companion",
     "screenshotUrls": [
-      "https://cubey.vercel.app/screenshot-portrait.png"
+      "https://uhhuuuuy.vercel.app/screenshot-portrait.png"
     ],
+    "iconUrl": "https://uhhuuuuy.vercel.app/blue-icon.png",
+    "splashImageUrl": "https://uhhuuuuy.vercel.app/blue-hero.png",
+    "splashBackgroundColor": "#000000",
+    "homeUrl": "https://uhhuuuuy.vercel.app",
+    "webhookUrl": "https://uhhuuuuy.vercel.app/api/webhook",
     "primaryCategory": "social",
-    "tags": ["marketing", "ads", "quickstart", "waitlist"],
-    "heroImageUrl": "https://cubey.vercel.app/blue-hero.png",
+    "tags": [
+      "marketing",
+      "ads",
+      "quickstart",
+      "waitlist"
+    ],
+    "heroImageUrl": "https://uhhuuuuy.vercel.app/blue-hero.png",
     "tagline": "Boost your ads with AI",
     "ogTitle": "Cubey - Your AI Ad Companion",
     "ogDescription": "Create smarter ads faster with Cubey Mini App on Base.",
-    "ogImageUrl": "https://cubey.vercel.app/blue-hero.png",
+    "ogImageUrl": "https://uhhuuuuy.vercel.app/blue-hero.png",
     "noindex": true
   }
 }
