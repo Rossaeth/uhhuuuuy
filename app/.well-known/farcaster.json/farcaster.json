@@ -1,0 +1,29 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjExMTIzMTksInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg0MjBiMzgzZmFBN0ZGNTFFODNCYjUzZkJERTVkYUMzZjBkMWJhOUIyIn0",
+    "payload": "eyJkb21haW4iOiJ1aGh1dXV1eS52ZXJjZWwuYXBwIn0",
+    "signature": "F+OuHUSNIheGZt08kFKrZVSsVNfDy/qm9/fbKhXA9eYLSY1ofZMlEbYV5u4LXj7TaNU5dDdslMhj5/0I2hUSQRs="
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Cubey",
+    "subtitle": "Your AI Ad Companion",
+    "description": "Ads & Marketing Companion",
+    "screenshotUrls": ["https://cubey.vercel.app/screenshot-portrait.png"],
+    "iconUrl": "https://cubey.vercel.app/blue-icon.png",
+    "splashImageUrl": "https://cubey.vercel.app/blue-hero.png",
+    "splashBackgroundColor": "#000000",
+    "homeUrl": "https://cubey.vercel.app",
+    "webhookUrl": "https://cubey.vercel.app/api/webhook",
+    "primaryCategory": "social",
+    "tags": ["marketing", "ads", "quickstart", "waitlist"],
+    "heroImageUrl": "https://cubey.vercel.app/blue-hero.png",
+    "tagline": "Boost your ads with AI",
+    "ogTitle": "Cubey - Your AI Ad Companion",
+    "ogDescription": "Create smarter ads faster with Cubey Mini App on Base.",
+    "ogImageUrl": "https://cubey.vercel.app/blue-hero.png"
+  },
+  "baseBuilder": {
+    "ownerAddress": "0xa0A5Ba2DB15Db370E749fAF65051b356F06a9eF9"
+  }
+}
