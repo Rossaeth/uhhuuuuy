@@ -27,8 +27,10 @@ export default function WaitlistMiniApp() {
       } else {
         setMsg(j.error || "Failed to join the waitlist. Please try again.");
       }
-    } catch (err) {
-      setMsg("A network error occurred.");
+    catch (_err) {
+  console.log("Something went wrong");
+}
+
     } finally {
       setLoading(false);
     }
